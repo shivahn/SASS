@@ -3,7 +3,7 @@
 ## What SASS?
   SASS is a CSS preprocessor
 
-## Why SAAS?
+## Why SASS?
   to fix the problems of CSS 
  
  ## How it works?
